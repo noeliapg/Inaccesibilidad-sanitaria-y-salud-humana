@@ -1,6 +1,6 @@
 ---
 title: "Informe"
-author: "Lorena,Alba,Noelia"
+author: "Lorena González, Alba Miguel y Noelia Pérez"
 date: "19/10/2021"
 output: html_document
 ---
@@ -34,7 +34,8 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 ## Introduccion
 
+
 ## Objetivos 
->>>>>>> e68f73db0e2c173217b22e7ceb3b31b7f36807f6
+
 
 ## Metodología
