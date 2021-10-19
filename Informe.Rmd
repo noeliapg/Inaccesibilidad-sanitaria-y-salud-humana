@@ -27,10 +27,7 @@ You can also embed plots, for example:
 plot(pressure)
 ```
 
-<<<<<<< HEAD
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
-=======
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
 ## Objetivos 
->>>>>>> e68f73db0e2c173217b22e7ceb3b31b7f36807f6
+
